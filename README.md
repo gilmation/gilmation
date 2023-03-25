@@ -1,4 +1,4 @@
-### Hi there, My name is [Hugh Gilmour](https://github.com/shugster13) and I was developing software as Gilmation from 2009 until 2019.
+#### Hi, my name is [Hugh Gilmour](https://github.com/shugster13) and I was developing software as Gilmation from 2009 until 2019.
 
 In this account there are some public projects that contain some simple tools that were developed by me for[Gilmation](https://gilmation.com).  
 
@@ -9,6 +9,6 @@ In this account there are some public projects that contain some simple tools th
 * [Gilmation Tools](https://github.com/gilmation/gilmation-tools) contains a lot of old script and other utilities but the thor directory particularly the 
 json.thor and the time.thor files.
 
-There are also public projects over at [Bitbucket]()
 
-The private projects are all work that is used by or has been sold to clients. If you'd like to see some please [reach out to me](https://gilmation.com/contact).
+
+The private projects are all work that is used by or has been sold to clients. If you'd like to see more please [reach out to me](https://gilmation.com/contact).
