@@ -1,6 +1,6 @@
 #### Hi, my name is [Hugh Gilmour](https://github.com/shugster13) and I was developing software as Gilmation from 2009 until 2019.
 
-In this account there are some public projects that contain some simple tools that were developed by me for[Gilmation](https://gilmation.com).  Up until recently I did all of my work on github under the gilmation account but I have now created [a new personal account](https://github.com/shugster13) and will add a few personal projects over the next few weeks.
+In this account there are some public projects that contain some simple tools that were developed by me for [Gilmation](https://gilmation.com).  Up until recently I did all of my work on github under the gilmation account but I have now created [a new personal account](https://github.com/shugster13) and will add a few personal projects over the next few weeks.
 
 * [IP](https://github.com/gilmation/ip) is a simple Sinatra App that returns the IP address of the request origin which can be useful for automated whitelist updating (if you are traveling or working out of different offices). The endpoints are avialable at ip.gilmation.com
 
